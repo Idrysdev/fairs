@@ -1,0 +1,95 @@
+#: locale=fr
+
+## Action
+
+### PDF
+PopupPDFBehaviour_B5A6F9D1_A7D2_55CA_41DB_8317C0990C00.url = files/AGITEL%20FORMATION_fr.pdf
+PopupPDFBehaviour_B6949FAB_A7CE_4E5D_41E0_AC87FFDC9896.url = files/ESCA_fr.pdf
+PopupPDFBehaviour_B6158E27_A7D2_4E56_41E1_5DEAFD98A7B8.url = files/ESIS_fr.pdf
+PopupPDFBehaviour_A8D8EAE9_A7F2_57DA_41C1_FEE8B7333AB9.url = files/FUPA_fr.pdf
+PopupPDFBehaviour_B59D46CD_A7D2_3FDA_41C9_0599406F75BB.url = files/HEC%20PARIS_fr.pdf
+PopupPDFBehaviour_B6FBC6D4_A7D2_FFCA_41E4_0F52CA1BE5E2.url = files/HETEC_fr.pdf
+PopupPDFBehaviour_B619B761_A7D2_DECA_41CF_684BF54C3653.url = files/IPAG%20Business%20School_fr.pdf
+PopupPDFBehaviour_B658D704_A7CE_DE4A_41B4_99F6C64DD93D.url = files/IUA_fr.pdf
+PopupPDFBehaviour_B5AAE90B_A7D2_325E_41BE_6ED390DA0171.url = files/MES%20%C3%89TUDES%20%C3%80%20L_%C3%89TRANGER_fr.pdf
+PopupPDFBehaviour_B9D1E859_A832_52FA_41A2_869788D36AE1.url = files/RENNES%20SCHOOL%20OF%20BUSINESS%20UNFRAMED%20THINKING_fr.pdf
+PopupPDFBehaviour_B9BAF119_A833_F27A_41E3_54CC0A6C22E0.url = files/UNIVERSIAPOLIS_fr.pdf
+PopupPDFBehaviour_B9AB0C52_A835_F2CE_41E0_CBCC23680676.url = files/UVCI_fr.pdf
+
+## Hotspot
+
+### Info-bulle
+HotspotPanoramaOverlayArea_A91D76D3_A7F6_3FCE_41E1_E3E04DBD9A17.toolTip = Télécharger la brochure
+HotspotPanoramaOverlayArea_B75D8BE8_A7D2_F5DA_41AD_F83BEBDDDC2E.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B77214EC_A7CE_D3DA_41D8_09BB9EBF31E2.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B766E5D7_A7DD_FDF6_41C6_6C428E44428C.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B7507B53_A7D2_56CE_41D9_971C6BF9B119.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B7ACFAFE_A7D2_57B6_41C5_5E7A3C306B6D.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_A8662CF2_A7CE_33CE_41E3_992E44E3A570.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B767012A_A7CD_F25F_41E0_488692865EBE.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B7B61FA4_A7CE_4E4A_41A3_F5E039B644AE.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B8928724_A832_5E4A_41E2_5B2D29FC104C.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B888CB10_A832_364A_41D1_9243C6BC1A02.toolTip = Télécharger la brochure.
+HotspotPanoramaOverlayArea_B7A45EFF_A7D2_CFB5_41D6_2D8A0E6DBCC2.toolTip = Télécharger la prochure.
+
+## Média
+
+### Image
+imlevel_BB90434C_A855_D6DA_41CE_0D7ACD1C69ED.url = media/popup_BAB5BF19_A852_4E7D_41DC_7591B0108F51_fr_0_0.jpg
+imlevel_BB90734C_A855_D6DA_41D7_7F97206EAFCB.url = media/popup_BAB5BF19_A852_4E7D_41DC_7591B0108F51_fr_0_1.jpg
+imlevel_BB90634C_A855_D6DA_41E1_CF9B7C049499.url = media/popup_BAB5BF19_A852_4E7D_41DC_7591B0108F51_fr_0_2.jpg
+imlevel_BB90134D_A855_D6DA_41C9_751AAF475F85.url = media/popup_BAB5BF19_A852_4E7D_41DC_7591B0108F51_fr_0_3.jpg
+
+### Popup Image
+
+### Sous-titres vidéo
+
+### Titre
+panorama_ACF8E3F5_A7D2_75B5_41DE_D6928DBB83E0.label = 1
+panorama_AD63A851_A7D2_D2CA_41E0_2AC12FE0A3D9.label = 10
+panorama_AD644DD8_A7D2_CDFB_419F_976E5D257370.label = 11
+panorama_AD63930E_A7D2_F657_41C6_6825E148DE02.label = 12
+panorama_AD63B7F0_A7D2_FDCB_41DB_FAAFFF0CBE3C.label = 13
+panorama_AD645D36_A7D2_F2B6_41E4_562393908E57.label = 14
+panorama_AD65726B_A7D2_D6DE_41D2_7216EE1A68F3.label = 15
+panorama_AD6547F4_A7D2_DDCA_41A5_E9F220C4F963.label = 16
+panorama_AD656D2A_A7D2_D25E_41DF_A1CD47147612.label = 17
+panorama_AD65024E_A7D2_36D4_41CF_39021A8C1CED.label = 18
+panorama_AD65C772_A7D2_3ECE_41CC_A329090383C7.label = 19
+panorama_AD656E30_A7D2_4E4A_41AD_0872BF65CEE7.label = 2
+panorama_AD65FC76_A7D2_32B6_41D5_CCD48700BDF3.label = 20
+panorama_AD65019B_A7D2_527E_41C1_BF5D0D481C13.label = 21
+panorama_AD6536AE_A7D2_5E56_41D4_B5CD21CED5D0.label = 22
+panorama_AD653C8A_A7D2_525E_41D6_C0014B2B201F.label = 23
+panorama_AD657203_A7D2_764E_41DA_2D8F1B744ED7.label = 24
+panorama_AD6516F5_A7D2_7FB5_41CB_BBF4347CCD77.label = 25
+panorama_AD668C5C_A7D2_72FA_41C2_145F9D16734A.label = 26
+panorama_AD650181_A7D2_524A_41A6_205419578D37.label = 28
+panorama_AD66E70C_A7D2_5E5A_41D6_2E89140F86B1.label = 29
+panorama_AD62D378_A7D2_56BA_41D7_C54055744C47.label = 3
+panorama_AD63F89B_A7D2_527E_41BC_A2BF2D068A5C.label = 4
+panorama_AD63DD9F_A7D2_5276_41DF_56E585E71EC7.label = 5
+panorama_AD641328_A7D2_365A_41D1_09FA2F9168DC.label = 6
+panorama_AD63985C_A7D2_32FA_41D5_CFB75335D511.label = 7
+panorama_AD639D71_A7D2_32CA_41C1_CF2B0D524122.label = 8
+panorama_AD63B37E_A7D2_D6B6_41E3_1A6F6F42A0BC.label = 9
+video_73C2DB4D_7C44_EBE4_41D2_AD5803C043AE.label = new avatar
+
+### Video
+videolevel_B5602C57_A6EA_45E8_41E1_B7C8FF6CAF5C.url = media/video_73C2DB4D_7C44_EBE4_41D2_AD5803C043AE_fr.mp4
+videolevel_B5602C57_A6EA_45E8_41E1_B7C8FF6CAF5C.posterURL = media/video_73C2DB4D_7C44_EBE4_41D2_AD5803C043AE_poster_fr.jpg
+
+## Popup
+
+### Corps
+htmlText_B67E0DE1_A6D6_46A8_41D0_9F2F3948E64E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Evénement généralement destiné aux étudiants, aux élèves de lycée, et parfois même aux collégiens, pour les aider à découvrir et à choisir leurs futures orientations scolaires et professionnelles. Ce salon réunit des représentants d'écoles, d'universités, d'entreprises, et parfois d'organismes de conseil en orientation. Voici quelques éléments typiques que lvous pouvez retrouver dans ce salon :</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Stands des établissements universitaires</B> : Des représentants de différentes écoles, universités, et autres institutions d'enseignement supérieur sont présents pour fournir des informations sur leurs programmes, leurs conditions d'admission, et leurs infrastructures.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Documentation et brochures</B> : De nombreux documents informatifs, brochures, et guides sont disponibles pour permettre aux étudiants de consulter des informations détaillées une fois rentrés chez eux.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>N.B :Pour les brochures, veuillez cliquer sur les supports pour les télécharger.</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV></BODY></HTML></div>
+
+### Titre
+window_B67E4DE1_A6D6_46A8_41DC_7E84BB4FFEFD.title = INFORMATIONS
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Salon de l'orientation
